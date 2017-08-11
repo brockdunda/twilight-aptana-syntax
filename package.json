@@ -1,13 +1,13 @@
 {
   "name": "twilight-aptana-syntax",
   "theme": "syntax",
-  "version": "0.5.1",
+  "version": "0.0.0",
   "description": "A remake of an old Aptana Studio 3 Twilight Theme.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/brockdunda/twilight-aptana-syntax",
+  "repository": "https://github.com/atom/twilight-aptana-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
